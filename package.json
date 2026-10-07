@@ -1,0 +1,12 @@
+{
+  "name": "jenkins-demo",
+  "version": "1.0.0",
+  "description": "A simple CI/CD demo for DevOps course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Tests passed successfully!' && exit 0",
+    "build": "echo 'Building application...'"
+  },
+  "author": "Isah Abba Namnai",
+  "license": "ISC"
+}
