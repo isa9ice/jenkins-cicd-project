@@ -25,3 +25,9 @@ Evidence includes:
 The Dockerized application was verified at:
 
 `http://localhost:3000`
+
+---
+
+## CI/CD Verification
+
+Jenkins Poll SCM is configured to automatically detect changes in the GitHub repository.
